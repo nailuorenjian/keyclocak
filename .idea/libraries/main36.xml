@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/metrics/main/smallrye-metrics-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/metrics/main/smallrye-metrics-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

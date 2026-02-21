@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microprofile-reactive-streams-operators-core-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/eclipse/microprofile/reactive-streams-operators/core/main/microprofile-reactive-streams-operators-core-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

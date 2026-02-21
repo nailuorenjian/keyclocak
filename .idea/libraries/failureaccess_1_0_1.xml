@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="failureaccess-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/com/google/guava/failureaccess/main/failureaccess-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

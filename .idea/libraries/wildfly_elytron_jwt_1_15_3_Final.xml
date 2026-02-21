@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-elytron-jwt-1.15.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/wildfly/security/elytron-jwt/main/wildfly-elytron-jwt-1.15.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

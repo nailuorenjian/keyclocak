@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microprofile-fault-tolerance-api-3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/eclipse/microprofile/fault-tolerance/api/main/microprofile-fault-tolerance-api-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

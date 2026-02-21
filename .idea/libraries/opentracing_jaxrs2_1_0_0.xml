@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-jaxrs2-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/opentracing/contrib/opentracing-jaxrs2/main/opentracing-jaxrs2-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

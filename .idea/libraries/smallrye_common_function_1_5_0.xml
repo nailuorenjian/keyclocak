@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smallrye-common-function-1.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/common/function/main/smallrye-common-function-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

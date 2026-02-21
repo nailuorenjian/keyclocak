@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microprofile-config-api-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/eclipse/microprofile/config/api/main/microprofile-config-api-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

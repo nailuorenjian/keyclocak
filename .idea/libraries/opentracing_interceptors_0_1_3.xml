@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-interceptors-0.1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/opentracing/contrib/opentracing-interceptors/main/opentracing-interceptors-0.1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

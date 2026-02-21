@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="main19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/config/main/smallrye-config-source-file-system-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/config/main/smallrye-config-core-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/config/main/smallrye-config-common-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/config/main/smallrye-config-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

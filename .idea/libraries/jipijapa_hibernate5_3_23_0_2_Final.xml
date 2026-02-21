@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jipijapa-hibernate5-3-23.0.2.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/hibernate/jipijapa-hibernate5-3/main/jipijapa-hibernate5-3-23.0.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

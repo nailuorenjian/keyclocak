@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-core-11.0.9.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/infinispan/main/infinispan-core-11.0.9.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

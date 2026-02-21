@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mutiny-0.14.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/reactive/mutiny/main/mutiny-0.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

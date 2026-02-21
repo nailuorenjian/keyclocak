@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/jboss/as/jsf-injection/main/weld-jsf-3.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/jboss/as/jsf-injection/main/wildfly-jsf-injection-23.0.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

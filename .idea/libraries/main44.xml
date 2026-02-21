@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main44">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/eclipse/jgit/main/org.eclipse.jgit.ssh.apache-5.10.0.202012080955-r.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/eclipse/jgit/main/org.eclipse.jgit-5.10.0.202012080955-r.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

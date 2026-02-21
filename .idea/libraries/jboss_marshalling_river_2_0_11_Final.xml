@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-marshalling-river-2.0.11.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/org/jboss/marshalling/river/main/jboss-marshalling-river-2.0.11.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

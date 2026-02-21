@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/bin/client/keycloak-client-registration-cli-15.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/bin/client/jboss-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/bin/client/keycloak-admin-cli-15.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/bin/client/jboss-cli-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

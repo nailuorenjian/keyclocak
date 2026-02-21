@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsf-impl-2.3.14.SP04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/com/sun/jsf-impl/main/jsf-impl-2.3.14.SP04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

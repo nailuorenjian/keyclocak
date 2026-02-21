@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main34">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-api-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-15.1.1/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-core-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
